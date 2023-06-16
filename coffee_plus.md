@@ -2,13 +2,13 @@
 
 [@ w5/कॉफ़ी_प्लस](http://npmjs.com/@w5/coffee_plus) , कॉफ़ीस्क्रिप्ट सिंटैक्स के आधार पर कुछ सुविधाएं जोड़ें, [Coffee_plus](./coffee_plus.md) देखें।
 
-* चर घोषित करें
+## चर घोषित करें
 
 ```
 + var1, var2
 ```
 
-* घोषणा लेबल
+## घोषणा लेबल
 
 `:$` [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) के साथ प्रयोग के लिए है।
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* त्वरित आयात
+## त्वरित आयात
 
 ```
 > zx/globals:
